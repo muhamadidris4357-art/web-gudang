@@ -1,0 +1,6 @@
+{
+  "name": "GudangKu Enterprise WMS",
+  "description": "Sistem Manajemen Gudang & Logistik Modern (WMS Enterprise) untuk pelacakan inventaris, penerimaan barang inbound, pengeluaran outbound, dan pelaporan mutasi stok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
